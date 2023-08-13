@@ -1,0 +1,36 @@
+<BFTypedBinder binderType="MegacHasmass_Old_F">
+   <types>
+      <entity>
+         <actor>
+            <animal>
+               <Chondrichthyes>
+                  <Orectolobiformes>
+                     <Rhiniodontidae>
+                        <MegacHasmass>
+                           <MegacHasmass_Old>
+                              <MegacHasmass_Old_F/>
+                           </MegacHasmass_Old>
+                        </MegacHasmass>
+                     </Rhiniodontidae>
+                  </Orectolobiformes>
+               </Chondrichthyes>
+            </animal>
+         </actor>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity/>
+   </instance>
+   <shared>
+      <UIToggleButton template="adopt">
+         <UIAspect>
+            <default image="entities\units\animals\MegacHasmass\MegacHasmass_Adult_F_icon.dds"/>
+         </UIAspect>
+         <on>
+            <event msg="ZT_SETPLACEMENTOBJECT" data="BFString" string="MegacHasmass_Old_F"/>
+         </on>
+      </UIToggleButton>
+      <BFAIEntityDataShared b_Male="0"/>
+   </shared>
+   <binder/>
+</BFTypedBinder>

@@ -1,0 +1,128 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <MegacHasmass>Tiburon boquiancho</MegacHasmass>
+      <MegacHasmass_stt>Tiburon boquiancho</MegacHasmass_stt>
+      <MegacHasmass_lower>El Tiburon boquiancho</MegacHasmass_lower>
+      <MegacHasmass_ltt>
+         <color r="255" g="248" b="178">
+            <b>Tiburon boquiancho</b>
+         </color>
+         <br/>
+         Click para adoptar Tiburon boquiancho, un tiburon raro.
+      </MegacHasmass_ltt>
+      <!--gift names-->
+      <MegacHasmass_Gift>Tiburon boquiancho</MegacHasmass_Gift>
+      <MegacHasmass_Gift_stt>Tiburon boquiancho</MegacHasmass_Gift_stt>
+      <MegacHasmass_Gift_lower>El Tiburon boquiancho</MegacHasmass_Gift_lower>
+      <MegacHasmass_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Tiburon boquiancho</b>
+         </color>
+         <br/>.
+      </MegacHasmass_Gift_ltt>
+</entityname>
+<zoopedia_megachasmass>
+ <entry>Tiburon boquiancho</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/MegacHasmass/MegacHasmass_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Estado de conservacion:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                      Vulnerable
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Mar Abierto<br/></color>
+     <img src="ui/icon_biomes/icon_benthic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">oceanos del mundo<br/></color> 
+     <img src="ui/icon_maplocations/pelagic_cold_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Clase: Peces cartilaginosos <i>(Chondricthyes)</i><br/>Orden:<i>(Lamniformes)</i><br/>Familia:<i>(Megachasmidae)</i><br/>Genero: <i>Megachasma</i><br/>Especie: <i>M. Pelagios</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/benthic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Curiosidades del Tiburon boquiancho</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">El tiburon boquiancho puede alcanzar los 7 metros de largo.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Abre la boca y filtra el agua a traves de unas inmensas branquias, ya que se alimenta de plancton.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">El Tiburon boquiancho recibe por su enorme boca</color>
+       
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+   Para desbloquear el tiburon boquiancho en los modos campaña y desafio necesitaras alcanzar un nivel de 5 estrellas de fama en tu zoo.
+   </color>
+   <p/>El tiburon boquiancho o tiburon de boca ancha (Megachasma pelagios) es una especie de elasmobranquio lamniforme de la familia Lamnidae.1 Es una especie inusual y muy rara que fue descubierta en 1976, cuando el primer especimen conocido llego a las playas de Hawaii. Su descripcion cientifica como nueva especie fue publicada en 1983 por Taylor, Compagno y Struhsaker. Su cuerpo es de forma afilada, flacido, color marron negruzco y, como su nombre indica, tiene una boca enorme, redondeada, y con un grupo de pequeñas manchas circulares en el "labio" de la mandibula inferior, organos luminiscentes que seguramente le ayudan a atraer el alimento. Sus dientes son pequeños y no funcionales. El maximo tamaño reportado es de aproximadamente 5,50 m. Los machos maduran sexualmente a los 4 m, mientras que las hembras a los 5 m de longitud total. Habitualmente se desplaza lentamente a traves del agua con la boca semiabierta para capturar el plancton, crustaceos (fundamentalmente eufausiaceos) y los peces pequeños de los que se alimentan, tal como hacen el tiburon peregrino o el tiburon ballena o las ballenas barbadas. Es una especie ovovivipara, lo que significa que las crias crecen en huevos y son incubados en el cuerpo de la madre. Es una especie dificil de encontrar por lo que se sabe poco sobre sus costumbres y numero de ejemplares. Hasta el momento se han documentado 54 especimenes en el mundo en un periodo de cerca de 30 años, incluyendo uno de los mas recientes ejemplares que fue capturado el 16 de noviembre de 2006 en una red tiburonera del barco ensenadense “Corina del Mar” en aguas cercanas a la bahia Tortugas, en Baja California Sur, siendo este el primer registro que se da en aguas de Mexico. En general no parece demasiado peligrosa para el ser humano, aunque seran necesarios nuevos estudios para confirmar este hecho.
+
+</cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Contenido de <color r="255" g="231" b="135">wikipedia</color>Imago<color r="0" g="0" b="0"></color>
+  </cell>
+ </text>
+</zoopedia_megachasmass>
+</ZT2Strings>
